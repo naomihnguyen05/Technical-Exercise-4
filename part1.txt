@@ -1,0 +1,49 @@
+﻿ART109: Project 1 Prep 1
+
+
+Sustainable Web Manifesto Reflection
+The Sustainable Web Manifesto was very well written. It really pinpoints the goal of creating a sustainable movement for internet users. The manifesto makes a very valid point by bringing up that the Internet is a part of the problem for climate change. This is something that many overlook due to being unaware of its physical impact. It also breaks down six different subsections to better clarify its goal. I think artists, specifically artists that work in the digital era, should be aware of their impact on the environment. This manifesto should be everyone’s manifesto in creating a better world. All artists should want to provide services powered by renewable energy. We want our products and services to be as efficient as possible using the least amount of energy and resources. These products and services should be easily accessible to reduce the use of data usage. We also want to be honest with our work; being careful to not mislead others in the wrong path. Artists should also want to provide products and services that can be helpful to the planet and economy. It should be where everyone needs it at all times. With this manifesto, artists should take inspiration from it to lead themselves in a better direction.
+
+
+Design Choices
+After looking through the examples of sustainable and low tech websites, this is a list of design choices I would like to incorporate in my own work.
+
+
+1. Minimalism Layout
+With a minimalist layout, I think the site can not only be easy to navigate through but also easy on everyone’s eyes. A minimalist layout can also be sustainable in the way that it doesn’t require much data to be saved and laid out for the site.
+2. Spacing
+Spacing is very important in creating negative and positive space. While we want to showcase our work in a dynamic way, we want to make sure that there is enough spacing that allows room for the elements to breathe. It also creates a trail for your eyes to move from one element to another.
+3. Clean Color Scheme
+This might just be a personal preference but I personally love websites that use a white or black base. I think it is a very clean look and it becomes easy to lay out certain colors on the site without it clashing with its base color. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Environmental Impact Test
+
+
+  
+
+For my environmental impact test, I used Ecograder. Surprisingly, my current portfolio scored really well and it does not emit as much CO2 as I thought it would. It would be amazing if my coded site could also be as good as this.
+
+
+WAVE Accessibility Test
+
+
+  
+
+For my accessibility test, I used WAVE. So far to my understanding, my portfolio’s accessibility is pretty good. Because I used a white background and black text, I had no problem at all with contrast. There are also no errors. The only alerts I had were regarding links.
